@@ -1,0 +1,7 @@
+# CineMax - File prenotazioni
+# Formato: codice,usernameCliente,codiceProiezione,numeroPosti,dataPrenotazione
+# codice: UUID della prenotazione
+# usernameCliente: username del cliente che ha prenotato
+# codiceProiezione: codice UUID della proiezione
+# numeroPosti: intero positivo
+# dataPrenotazione: dd/MM/yyyy HH:mm

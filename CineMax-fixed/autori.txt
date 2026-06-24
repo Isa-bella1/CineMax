@@ -1,0 +1,18 @@
+CineMax - Laboratorio Interdisciplinare A - a.a. 2025/2026
+Università degli Studi dell'Insubria
+
+=== AUTORI DEL PROGETTO ===
+
+Cognome, Nome, Matricola, Sede
+-----------------------------------------------------------------------
+Serrao, Isabella, 766930, VA
+Wilson Bernal, Gaia, 766733, VA
+Rahmouni, Malek, 766890, VA
+Macrì, Pornima, 765952, VA
+
+=== SUDDIVISIONE DEI RUOLI ===
+
+- Isabella Serrao: TUI (interfaccia terminale), service layer, GitHub, documentazione)
+- Gaia Wilson Bernal: Persistenza CSV (ProiezioneRepository, UtenteRepository, FileManager)
+- Malek Rahmouni: Persistenza CSV (PrenotazioneRepository, FileManager)
+- Pornima Macrì: Model layer (Film, Proiezione, Prenotazione, Utente, subclassi, Ruolo)

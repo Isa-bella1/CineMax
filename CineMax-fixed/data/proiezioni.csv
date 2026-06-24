@@ -1,0 +1,10 @@
+# CineMax - File proiezioni
+# Formato: codice,titolo,genere,regista,anno,durataMinuti,etaMinima,dataOra,prezzoBiglietto
+# dataOra: dd/MM/yyyy HH:mm
+# prezzoBiglietto: in euro (punto decimale)
+7ab52188-43ed-403f-8bdd-e5017159d946,Dune Parte Due,Fantascienza,Denis Villeneuve,2024,166,14,01/07/2026 21:00,9.50
+09fd9437-98fb-497f-85c0-53b213f68676,Dune Parte Due,Fantascienza,Denis Villeneuve,2024,166,14,03/07/2026 18:30,9.50
+8525c519-da27-4fd1-b8bb-f4694cd12f38,Deadpool e Wolverine,Azione,Shawn Levy,2024,127,14,02/07/2026 20:30,10.00
+56c829cd-cc04-4833-bf44-efc92514a304,Inside Out 2,Animazione,Kelsey Mann,2024,100,0,02/07/2026 16:00,8.50
+8f988080-7b49-4537-8a84-22ff5e5eb2c0,Il Gladiatore II,Azione,Ridley Scott,2024,148,14,04/07/2026 20:00,9.00
+46081a38-c180-4039-b4de-f331c09a22e0,La Stanza Accanto,Dramma,Pedro Almodovar,2024,107,14,05/07/2026 19:00,8.00
