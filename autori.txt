@@ -6,9 +6,9 @@ Università degli Studi dell'Insubria
 Cognome, Nome, Matricola, Sede
 -----------------------------------------------------------------------
 Serrao, Isabella, 766930, VA
-Wilson Bernal, Gaia, 766733, VA
-Rahmouni, Malek, 766890, VA
-Macrì, Pornima, 765952, VA
+Wilson Bernal, Gaia, 766890, VA
+Rahmouni, Malek, 765952, VA
+Macrì, Pornima, 766733, VA
 
 === SUDDIVISIONE DEI RUOLI ===
 
