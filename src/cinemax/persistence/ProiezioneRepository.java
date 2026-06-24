@@ -18,7 +18,7 @@ import java.util.Locale;
  *
  * Nota: la classe Proiezione del model non contiene il campo sala; nel CSV viene salvato "1".
  *
- * //@authors Wilson Bernal Gaia (766733) e Rahmouni Malek (765952) [VA]
+ * //@authors Wilson Bernal Gaia (766890) e Rahmouni Malek (765952) [VA]
  */
 public class ProiezioneRepository {
 
