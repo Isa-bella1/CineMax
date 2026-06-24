@@ -15,7 +15,7 @@ import java.util.List;
  * Repository per la gestione degli utenti su file CSV
  * Formato: TIPO,nome,cognome,username,passwordHash,dataNascita,luogoDomicilio
  *
- * @author Serrao Isabella (766930) [VA]
+ * //@authors Wilson Bernal Gaia (766733) e Rahmouni Malek (765952) [VA]
  */
 public class UtenteRepository {
 
