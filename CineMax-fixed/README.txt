@@ -151,11 +151,6 @@ NOTE TECNICHE
   sia la vecchia che la nuova proiezione sono future.
 - Le proiezioni si possono modificare/eliminare solo se non hanno prenotazioni.
 
-NOTA SULLA PERSISTENCE LAYER:
-  I file in src/cinemax/persistence/ (scritti da Gaia e Malek) sono in fase di
-  allineamento con il model layer definitivo. Il GestoreApp gestisce direttamente
-  la persistenza CSV finché i repository non saranno aggiornati all'API del model.
-
 
 GENERAZIONE JAVADOC
 -------------------
