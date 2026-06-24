@@ -29,7 +29,7 @@ import java.util.List;
  * ma chiamano metodi di alto livello come login, registrazione, prenotazione
  * e gestione delle proiezioni.
  *
- * //@authors Wilson Bernal Gaia (766733) e Rahmouni Malek (765952) [VA]
+ * //@authors Wilson Bernal Gaia (766890) e Rahmouni Malek (765952) [VA]
  */
 public class CinemaService {
 
