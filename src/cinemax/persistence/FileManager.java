@@ -1,5 +1,6 @@
 package cinemax.persistence;
-//@authors Wilson Bernal Gaia (766890) e Rahmouni Malek (765952) [VA]
+//@author Wilson Bernal Gaia (766890) [VA]
+// @author Rahmouni Malek (765952) [VA]
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
