@@ -15,7 +15,8 @@ import java.util.List;
  * Repository per la gestione delle prenotazioni su file CSV
  * Formato consigliato:codice,usernameCliente,codiceProiezione,numeroPosti,dataPrenotazione
  *
- * //@authors Wilson Bernal Gaia (766890) e Rahmouni Malek (765952) [VA] 
+ * @author Wilson Bernal Gaia (766890) [VA]
+ * @author Rahmouni Malek (765952) [VA] 
  */
 public class PrenotazioneRepository {
 
